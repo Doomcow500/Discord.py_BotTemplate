@@ -1,0 +1,4 @@
+To install these, open a command prompt or terminal and type "pip install -r requirements.txt"
+discord
+discord.py
+
